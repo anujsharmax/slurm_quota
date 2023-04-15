@@ -1,0 +1,6 @@
+[submodule "slurm-docker-cluster"]
+	path = submodules/slurm-docker-cluster
+	url = git@github.com:anujsharmax/slurm-docker-cluster.git
+[submodule "slurm"]
+	path = submodules/slurm
+	url = git@github.com:anujsharmax/slurm.git
